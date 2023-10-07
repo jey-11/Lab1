@@ -1,24 +1,24 @@
 **ls**
 1. ls no input<br>
-\t -the working directory was /home<br>
-   -I got the output Lab1 lecture messages because those file are directly within the home
-   -there is no error
-   ![Image](Lab1_LS_NI.png)
-3. ls with a path directory
-   -the working directory was /home/lecture1/messages
-   -I got the output of the text files because they were all directly within the messages folder
-   -there is no error
-   ![Image](Lab1_LS_PD.png)
-5. ls with a path to a file
-   -the working directory was /home/lecture1/messages/en-us-txt
-   -I got the working directory as the output because ls can only display the files and folders in a given path
-   -there is no error
-   ![Image](Lab1_LS_PF.png)
-**cd**
-1. cd no input
-   -the working directory is /home
-   -there was no output
-   -this is not an error since no directory was provided to change the directory
+   -the working directory was /home<br>
+   -I got the output Lab1 lecture messages because those file are directly within the home<br>
+   -there is no error<br>
+   ![Image](Lab1_LS_NI.png)<br>
+3. ls with a path directory<br>
+   -the working directory was /home/lecture1/messages<br>
+   -I got the output of the text files because they were all directly within the messages folder<br>
+   -there is no error<br>
+   ![Image](Lab1_LS_PD.png)<br>
+5. ls with a path to a file<br>
+   -the working directory was /home/lecture1/messages/en-us-txt<br>
+   -I got the working directory as the output because ls can only display the files and folders in a given path<br>
+   -there is no error<br>
+   ![Image](Lab1_LS_PF.png)<br>
+**cd**<br>
+1. cd no input<br>
+   -the working directory is /home<br>
+   -there was no output<br>
+   -this is not an error since no directory was provided to change the directory<br>
    ![Image](Lab1_CD_NI.png)
 3. cd with a path directory
    -the working directory is now /home/lecture1
