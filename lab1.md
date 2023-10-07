@@ -1,6 +1,6 @@
 **ls**
-1. ls no input
-   -the working directory was /home
+1. ls no input<br>
+\t -the working directory was /home<br>
    -I got the output Lab1 lecture messages because those file are directly within the home
    -there is no error
    ![Image](Lab1_LS_NI.png)
