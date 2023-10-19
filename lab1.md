@@ -16,8 +16,8 @@
    ![Image](Lab1_LS_PF.png)<br>
 **cd**<br>
 1. cd no input<br>
-   -the working directory is /home<br>
-   -there was no output<br>
+   -the working directory is /home/lecture1/messages<br>
+   -there was a change in the directory.. it went back to the home directory <br>
    -this is not an error since no directory was provided to change the directory<br>
    ![Image](Lab1_CD_NI.png)<br>
 3. cd with a path directory<br>
